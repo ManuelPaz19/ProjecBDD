@@ -1,0 +1,72 @@
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.exe.config
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.exe
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.pdb
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.Form1.resources
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.exe
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.pdb
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\Oracle.DataAccess.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Json.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.ValueTuple.dll
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Buffers.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Memory.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Json.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\bin\Debug\System.ValueTuple.xml
+C:\Users\USUARIO\source\repos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.CopyComplete
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.exe.config
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.exe
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\appProyectoBDD.pdb
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Buffers.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Memory.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Json.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.ValueTuple.dll
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Buffers.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Memory.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Text.Json.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\bin\Debug\System.ValueTuple.xml
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.Form1.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.Properties.Resources.resources
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.csproj.CopyComplete
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.exe
+C:\Users\Asus\OneDrive - unicauca.edu.co\Bases de datos\appProyectoBDD\appProyectoBDD\obj\Debug\appProyectoBDD.pdb
